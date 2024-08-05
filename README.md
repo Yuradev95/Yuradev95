@@ -21,4 +21,11 @@ He/Him
 **⚡ Fun fact:**
 I'm an avid gamer and enjoy developing games using Web3D technologies like Three.js. When I'm not coding, you can find me exploring the latest blockchain trends or playing my favorite games.
 
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yuradev95&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+
+<br/>
+
+
 Feel free to connect with me on any of these platforms!
