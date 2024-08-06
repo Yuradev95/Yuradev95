@@ -23,8 +23,7 @@ I'm an avid gamer and enjoy developing games using Web3D technologies like Three
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yuradev95&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yuradev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <br/>
 
 
